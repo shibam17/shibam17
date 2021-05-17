@@ -10,7 +10,7 @@ I AM A SECOND YEAR STUDENT 👨‍💻 PURSUING B.TECH IN CSE. A WEB TECH FREAK 
 ## 🧐 About
 - 🏄‍ A Tech and Community guy who loves being involved in communities to learn and teach tech stuff.
 - 😄 I love to speak at public events and been a speaker at many events. I organise Workshops, Webinars etc to help student Community
-- 🔭 I am currently a MSFT Learn Ambassador,Lead of Hack Club and Treasurer of ACM-KCCITM and many more!
+- 🔭 I am currently a MSFT Learn Ambassador.
 - 🌱 I’m currently learning Web-Dev💻 and Cloud☁.
 - 👯 I’m looking to collaborate on any Open Source Project involving Web-Development.
 
