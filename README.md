@@ -5,7 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-shibam.dipu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shibam.dipu@gmail.com)](mailto:shibam.dipu@gmail.com)
 ---
 ## Hi there 👋,
-I AM A THIRD YEAR STUDENT 👨‍💻 PURSUING B.TECH IN CSE. A WEB TECH FREAK ALWAYS ENTHUSIASTIC TO LEARN MORE AND EXPLORE DIFFERENT TECHNOLOGIES AND DOMAINS. A HARD WORKER AND A SELF LEARNER, WHO'S GOAL IS TO POUR OUT 100% FROM SKILLS  AND BE A VALUABLE ASSET. ALWAYS FASCINATED BY COMMUNITIES AND READY TO CONTRIBUTE TO IT.  
+I'm a Developer Evangelist with a background in Computer Science and Engineering. My journey began in the dynamic realm of front-end development, where I honed my skills in HTML, CSS, and JavaScript, crafting visually appealing and responsive user interfaces. As a Frontend Web Developer, I navigated the intricacies of modern web design, ensuring seamless user experiences.
+
+Driven by a passion for technology and a hunger for diverse knowledge, I transitioned into Developer Relations, where I embraced the role of a Developer Evangelist. This transition allowed me to combine my technical expertise with a fervor for community engagement.
 
 ## 🧐 About
 - 🏄‍ A Tech and Community guy who loves being involved in communities to learn and teach tech stuff.
