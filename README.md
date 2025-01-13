@@ -1,20 +1,27 @@
 <img src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="300" height="200" />
 
-# Shibam Dhar
-[![Twitter Badge](https://img.shields.io/badge/-@twf_thewebfreak-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/twf_thewebfreak)](https://twitter.com/twf_thewebfreak) [![Linkedin Badge](https://img.shields.io/badge/-ShibamDhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shibam-dhar-43679216b/)](https://www.linkedin.com/in/shibam-dhar-43679216b/) [![Medium Badge](https://img.shields.io/badge/-@shibam.dipu-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@shibam.dipu)](https://medium.com/@shibam.dipu)
-[![Gmail Badge](https://img.shields.io/badge/-shibam.dipu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shibam.dipu@gmail.com)](mailto:shibam.dipu@gmail.com)
----
-## Hi there 👋,
-I'm a Developer Evangelist with a background in Computer Science and Engineering. My journey began in the dynamic realm of front-end development, where I honed my skills in HTML, CSS, and JavaScript, crafting visually appealing and responsive user interfaces. As a Frontend Web Developer, I navigated the intricacies of modern web design, ensuring seamless user experiences.
+# 👋 Hi, I'm Shibam Dhar  
 
-Driven by a passion for technology and a hunger for diverse knowledge, I transitioned into Developer Relations, where I embraced the role of a Developer Evangelist. This transition allowed me to combine my technical expertise with a fervor for community engagement.
+🎯 **Mission:** Empowering developers and communities through knowledge and innovation.  
+💡 **Experience:**  
+- 4+ years in community building (Mozilla, Microsoft, ACM, etc.)  
+- Technical talks, blogs, videos, and Q&A sessions.  
+- Expertise in DevRel, content creation, and client relationship management.  
 
-## 🧐 About
-- 🏄‍ A Tech and Community guy who loves being involved in communities to learn and teach tech stuff.
-- 😄 I love to speak at public events and been a speaker at many events. I organise Workshops, Webinars etc to help student Community
-- 🔭 I am currently a MSFT Learn Ambassador.
-- 🌱 I’m currently learning Web-Dev💻 and Cloud☁.
-- 👯 I’m looking to collaborate on any Open Source Project involving Web-Development.
+🚀 **Let’s Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibam-dhar)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/itsme_shib)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBnzOMKCEK8CEpcwq7qivQg)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/shibam17/shibam17)  
+
+📜 **Content Themes:**  
+- Developer Advocacy Tips  
+- Community Building Insights  
+- Technical Tutorials  
+- Product Demonstrations  
+
+🌟 **Let’s Build Something Amazing Together!**  
+
 
 # Hello World!! 💻🤔
 - 💬 Ask me about anything and everything! 
